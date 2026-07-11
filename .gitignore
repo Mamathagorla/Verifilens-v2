@@ -1,4 +1,4 @@
-# Ignore virtual environments
+# Virtual envs
 venv/
 venv310/
 .venv/
@@ -8,7 +8,3 @@ ENV/
 # Python cache
 __pycache__/
 *.pyc
-
-# IDE stuff (optional)
-.vscode/
-.idea/
